@@ -13,6 +13,7 @@ Semester :- VI
 ## About me 
 
 :satellite: Love To explore new tech | :black_heart: React Native | :black_heart: React JS | :blue_heart: ML/AI
+
 :stars: Python | :stars: Java | :stars: C++
 
 - Want to explore BlockChain | Cyber Security
