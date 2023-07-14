@@ -5,10 +5,9 @@
 
 # Hi, Myself Kartikay Bansal
 
-Tech Enthusiast | Android Application Developer uding React | ML Fanatic | Blockchain Suporter
+Tech Enthusiast | Android Application Developer using React | ML Fanatic | Blockchain Supporter
 
-College :- Bennett University. 
-Semester :- VI
+College:- Bennett University. 
 
 ## About me 
 
@@ -17,7 +16,7 @@ Semester :- VI
 :stars: Python | :stars: Java | :stars: C++
 
 - Want to explore BlockChain | Cyber Security
-- Always Open for Projects and interesting ideas.
+- Always Open to Projects and exciting ideas.
 
 ## Social media :mailbox_with_no_mail:
 
