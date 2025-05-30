@@ -1,41 +1,85 @@
-### Hi there 👋
+# Hi there, I'm Kartikay Bansal 👋
 
-<img align="right" width="400" height="400" src="https://cdn.icon-icons.com/icons2/1465/PNG/512/130manstudent2_100617.png">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KartikayB/kartikay-portfolio/main/public/profile.jpg" alt="Kartikay Bansal" width="200" height="200" style="border-radius: 50%;">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kartikayb.github.io/kartikay-portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-bansal-036813173/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikayB)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bansalkartikay/)
+</div>
 
+## 👨‍💻 About Me
 
-# Hi, Myself Kartikay Bansal
+Data Engineer and Backend Developer with 3+ years of experience building scalable data pipelines, APIs, and cloud-native applications. Currently working at Here Technologies, focusing on geospatial data processing and analytics.
 
-Tech Enthusiast | Android Application Developer using React | ML Fanatic | Blockchain Supporter
+- 🔭 Currently working on: Geospatial data pipelines and real-time analytics systems
+- 🌱 Learning: MLOps, Vector Databases, and Cloud-native Architecture
+- 💬 Ask me about: Data Engineering, Python, AWS, FastAPI, and System Design
+- 📫 How to reach me: [kartikay.bansal2014@gmail.com](mailto:kartikay.bansal2014@gmail.com)
 
-College:- Bennett University. 
+## 🎯 Professional Focus
 
-## About me 
+- **Data Engineering**: Building robust ETL pipelines and data processing systems
+- **Backend Development**: Designing scalable APIs and microservices
+- **Cloud Architecture**: Implementing cloud-native solutions on AWS
+- **Analytics**: Creating data visualization and analytics platforms
+- **Automation**: Developing CI/CD pipelines and infrastructure as code
 
-:satellite: Love To explore new tech | :black_heart: React Native | :black_heart: React JS | :blue_heart: ML/AI
+## 🛠️ Tech Stack
 
-:stars: Python | :stars: Java | :stars: C++
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Want to explore BlockChain | Cyber Security
-- Always Open to Projects and exciting ideas.
+### Data & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Social media :mailbox_with_no_mail:
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/kartikay-bansal-036813173/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/bansalkartikay/)
+## 🌟 Featured Projects
+
+- **[Safest Route Suggestion](https://github.com/KartikayB/safest-route)**: Data-driven safety navigation using crime data analysis and Here Maps API
+  - Python, FastAPI, Here Maps API, Data Analysis
+  - Real-time route optimization with safety scoring
+  - Geospatial data processing and visualization
+
+- **[Virtual Labs - Flow Control](https://github.com/KartikayB/virtual-labs)**: Interactive learning platform for networking concepts
+  - JavaScript, HTML5, CSS3, Network Protocols
+  - Collaboration with IIT Roorkee
+  - Interactive simulations for educational purposes
+
+- **[Babble](https://github.com/KartikayB/babble)**: Special needs therapy platform with intuitive interface
+  - React, Responsive Design, Accessibility
+  - User-centric healthcare platform
+  - Focus on accessibility and ease of use
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Technology**, Computer Science - Bennett University
+- Multiple certifications in Data Engineering and Cloud Architecture
+
+## 💡 Interests & Future Goals
+
+- Exploring advanced ML/AI applications in data engineering
+- Contributing to open-source data engineering tools
+- Building scalable solutions for real-world problems
+- Mentoring and knowledge sharing in tech communities
 
 ---
 
-<!--
-**KartikayB/KartikayB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
