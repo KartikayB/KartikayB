@@ -71,6 +71,14 @@ Data Engineer and Backend Developer with 3+ years of experience building scalabl
 - **Bachelor of Technology**, Computer Science - Bennett University
 - Multiple certifications in Data Engineering and Cloud Architecture
 
+## 📚 Publications
+
+- **[Safest Route Detection via Danger Index Calculation and K-Means Clustering](https://www.techscience.com/cmc/v69n2/43879)**
+  - Published in CMC-Computers, Materials & Continua (July 2021)
+  - DOI: 10.32604/cmc.2021.018128
+  - Research focused on developing an algorithm for identifying safe navigation routes using crime data analytics
+  - Implemented K-Means clustering for crime hotspot detection and route optimization
+
 ## 💡 Interests & Future Goals
 
 - Exploring advanced ML/AI applications in data engineering
