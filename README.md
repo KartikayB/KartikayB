@@ -1,7 +1,7 @@
 # Hi there, I'm Kartikay Bansal 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KartikayB/kartikay-portfolio/main/public/profile.jpg" alt="Kartikay Bansal" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/KartikayB/KartikayB/main/9434619.jpg" alt="Kartikay Bansal" width="300" height="300" style="border-radius: 15px;">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kartikayb.github.io/kartikay-portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-bansal-036813173/)
